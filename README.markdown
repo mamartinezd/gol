@@ -13,3 +13,5 @@ Prueba de uso de Jenkins
 Más pruebas de lo mismo...
 
 lalaland, jajajaja
+
+falta configurar varias características.
